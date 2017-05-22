@@ -4,3 +4,8 @@ Web Server (requires Ethernet shield)
 	https://www.arduino.cc/en/Tutorial/WebServer
 Motor Shield
 	https://www.arduino.cc/en/Main/ArduinoMotorShieldR3
+
+======= 5/22/2017 ======
+Need to install Time from https://github.com/PaulStoffregen/Time to get time stuff to compile.
+Add library by following https://www.arduino.cc/en/guide/libraries
+See http://playground.arduino.cc/Code/time for OG reference
